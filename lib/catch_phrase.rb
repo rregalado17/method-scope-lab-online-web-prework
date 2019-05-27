@@ -1,4 +1,4 @@
 def catch_phrase(phrase)
   puts phrase
-  phrase = "The more you know"
+  phrase = "It's-a me, Mario!"
 end
